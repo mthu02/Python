@@ -1,0 +1,7 @@
+1.Biểu đồ đường và biểu đồ rời rạc
+2. Visualizing Errors
+3. Density and Contour Plots
+4. Histograms, Binnings, and Density
+5. Multiple Subplots 
+6. Text and Annotation
+7. Chỉnh sửa các thành phần của đồ thị
